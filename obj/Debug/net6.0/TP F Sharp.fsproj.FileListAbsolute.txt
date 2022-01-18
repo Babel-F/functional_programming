@@ -1,0 +1,26 @@
+D:\Cours\Licence Info CNAM\UTC503 - Paradigme de programation\TP F Sharp\bin\Debug\net6.0\TP F Sharp.exe
+D:\Cours\Licence Info CNAM\UTC503 - Paradigme de programation\TP F Sharp\bin\Debug\net6.0\TP F Sharp.deps.json
+D:\Cours\Licence Info CNAM\UTC503 - Paradigme de programation\TP F Sharp\bin\Debug\net6.0\TP F Sharp.runtimeconfig.json
+D:\Cours\Licence Info CNAM\UTC503 - Paradigme de programation\TP F Sharp\bin\Debug\net6.0\TP F Sharp.dll
+D:\Cours\Licence Info CNAM\UTC503 - Paradigme de programation\TP F Sharp\bin\Debug\net6.0\TP F Sharp.pdb
+D:\Cours\Licence Info CNAM\UTC503 - Paradigme de programation\TP F Sharp\bin\Debug\net6.0\FSharp.Core.dll
+D:\Cours\Licence Info CNAM\UTC503 - Paradigme de programation\TP F Sharp\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+D:\Cours\Licence Info CNAM\UTC503 - Paradigme de programation\TP F Sharp\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+D:\Cours\Licence Info CNAM\UTC503 - Paradigme de programation\TP F Sharp\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+D:\Cours\Licence Info CNAM\UTC503 - Paradigme de programation\TP F Sharp\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+D:\Cours\Licence Info CNAM\UTC503 - Paradigme de programation\TP F Sharp\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+D:\Cours\Licence Info CNAM\UTC503 - Paradigme de programation\TP F Sharp\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+D:\Cours\Licence Info CNAM\UTC503 - Paradigme de programation\TP F Sharp\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+D:\Cours\Licence Info CNAM\UTC503 - Paradigme de programation\TP F Sharp\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+D:\Cours\Licence Info CNAM\UTC503 - Paradigme de programation\TP F Sharp\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+D:\Cours\Licence Info CNAM\UTC503 - Paradigme de programation\TP F Sharp\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+D:\Cours\Licence Info CNAM\UTC503 - Paradigme de programation\TP F Sharp\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+D:\Cours\Licence Info CNAM\UTC503 - Paradigme de programation\TP F Sharp\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+D:\Cours\Licence Info CNAM\UTC503 - Paradigme de programation\TP F Sharp\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+D:\Cours\Licence Info CNAM\UTC503 - Paradigme de programation\TP F Sharp\obj\Debug\net6.0\TP F Sharp.fsproj.AssemblyReference.cache
+D:\Cours\Licence Info CNAM\UTC503 - Paradigme de programation\TP F Sharp\obj\Debug\net6.0\TP F Sharp.AssemblyInfoInputs.cache
+D:\Cours\Licence Info CNAM\UTC503 - Paradigme de programation\TP F Sharp\obj\Debug\net6.0\TP F Sharp.AssemblyInfo.fs
+D:\Cours\Licence Info CNAM\UTC503 - Paradigme de programation\TP F Sharp\obj\Debug\net6.0\TP F Sharp.fsproj.CopyComplete
+D:\Cours\Licence Info CNAM\UTC503 - Paradigme de programation\TP F Sharp\obj\Debug\net6.0\TP F Sharp.dll
+D:\Cours\Licence Info CNAM\UTC503 - Paradigme de programation\TP F Sharp\obj\Debug\net6.0\TP F Sharp.pdb
+D:\Cours\Licence Info CNAM\UTC503 - Paradigme de programation\TP F Sharp\obj\Debug\net6.0\TP F Sharp.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "80hctwfKv5EUY2xZUZmyCGcSG6wzLUuDdYSW9YjoDrt9WAUaHcTKIIvpenuz3VFrcv86tdVXR+CwXjJBA/njjQ==",
+  "success": true,
+  "projectFilePath": "D:\\Cours\\Licence Info CNAM\\UTC503 - Paradigme de programation\\TP F Sharp\\TP F Sharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abelf\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
