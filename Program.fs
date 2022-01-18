@@ -135,60 +135,47 @@
 
     /// 7.
 
-    let supportTeam(team : Team)=
-        match team with
-        | team when (team.Coach.Name = "Gregg Popovich") -> true
-        | team when (team.Coach.FormerPlayer = true) -> true
-        | team when (team.Name = "Chicago Bulls") -> true
-        | team when (team.Stats.Wins >= 60) -> true
-        | team when (team.Stats.Wins < team.Stats.Pertes) -> true
-        |_ -> false
-    
-    let spursCoach = createCoach "Greg Popovich" false
-    let spursStats = createStats 56 26
-    let spursTeam = createTeam "San Antonio Spurs" spursCoach spursStats
-    
-    supportTeam spursTeam |> printfn "%b"
+// Exercice 3B
 
     /// 1.
     
-    type Approbation =
-        | Non 
-        | Oui 
-        | Bof
+    type approbation =
+        | non 
+        | oui 
+        | bof
     
     /// 2.
     
-    type Cuisines =
-        | Coreen 
-        | Turc 
+    type cuisines =
+        | coreen 
+        | turc 
     
     /// 3.
     
-    type Genre =
-        | Crime 
-        | Horreur 
-        | Romance 
-        | Thriller 
+    type genre =
+        | crime 
+        | horreur 
+        | romance 
+        | thriller 
     
-     // 4.
+     /// 4.
     
-    type Activité = 
-        | BoardGame
-        | Chill
-        | Film of Genre
-        | Restaurant of Cuisines
-        | Walk  of int
+    type activite = 
+        | boardGame
+        | chill
+        | film of genre
+        | restaurant of cuisines
+        | walk  of int
      
-     // 5.
+     /// 5.
     
-    let rateActivity(activity : Activité)=
+    let rateActivity(activity : activite)=
         match activity with
-        | Film f when f = Genre.Romance -> Oui
-        | Restaurant r when r = Cuisines.Coreen -> Oui
-        | Restaurant r when r = Cuisines.Turc -> Bof
-        | Walk w when w < 3 -> Oui
-        | Walk w when w < 5 -> Bof
-        |  _ -> Non
+        | film f when f = genre.romance -> oui
+        | restaurant r when r = cuisines.coreen -> oui
+        | restaurant r when r = cuisines.turc -> bof
+        | walk w when w < 3 -> oui
+        | walk w when w < 5 -> bof
+        |  _ -> non
     
-    rateActivity (Restaurant Turc) |> printfn "%O"
+    rateActivity restaurant turc) |> printfn "%O"
